@@ -1,4 +1,4 @@
-Here you'll find the auxiliary data created for  [arXiv:2405.13714](https://ui.adsabs.harvard.edu/abs/2024arXiv240513714G/abstract). We have made available the Ha image of the bubble and the three broadband models in qdp format.
+Here you'll find the auxiliary data generated for [arXiv:2405.13714](https://ui.adsabs.harvard.edu/abs/2024arXiv240513714G/abstract). We have made available the Ha image of the bubble and the three broadband models in qdp format.
 
        
 ```
